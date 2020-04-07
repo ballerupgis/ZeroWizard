@@ -2,5 +2,5 @@
 *
 # Except this file
 !.gitignore
-!//theZerowizardBuild/zeromixer/
+!/theZerowizardBuild/zeromixer/
 !/zeromixer/
