@@ -1,0 +1,22 @@
+Installation
+------------
+I mappen "theZerowizardBuild" findes programmet "theZerowizard". 
+Lav en genvej af denne og flyt den ind i denne mappe.
+Genvejen er den du fremadrettet kan anvende når du skal køre programmet.
+Eller hvis du vil have programmet lettere tilgængeligt - så træk programikonet fra mappen "theZerowizardBuild" over i proceslinien nederst.
+
+OBS! Du skal muligvis whiteliste programmet når du kører det.
+
+
+
+Preconfig af tabulær data (adresseliste)
+-----------------------------------------
+1. Konverter din fil om til CSV og navngiv den "nuller.csv"
+2. Notér dig hvilken seperator der er anvendt i din fil (mellemrum, semikolon, komma...)
+3. Smid den konverterede CSV-fil in i mappen "zeromixer"
+4. Kør programmet og følg instrukserne.
+5. Hør noget heavy.
+
+
+
+- Danny Morck januar, 2020
